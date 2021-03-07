@@ -1,0 +1,2 @@
+# MobileMock_SideMenu
+モバイル勉強会SideMenuのMockAppです
