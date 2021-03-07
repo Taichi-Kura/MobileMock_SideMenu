@@ -1,2 +1,4 @@
 # MobileMock_SideMenu
 モバイル勉強会SideMenuのMockAppです
+
+今回の勉強会のために、２種類のMockAppを作成しました。
