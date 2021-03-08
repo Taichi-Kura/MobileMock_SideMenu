@@ -24,6 +24,7 @@
 ## 本ファイルをcloneする
 <img width="1440" alt="スクリーンショット_2021-03-08_12_48_49" src="https://user-images.githubusercontent.com/67308225/110272192-f0a15580-800c-11eb-8855-95d6394b71fa.png">
 以下コマンドを実行します。
+
 ```ターミナル
 git clone https://github.com/Taichi-Kura/MobileMock_SideMenu
 ```
