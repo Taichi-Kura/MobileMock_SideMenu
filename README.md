@@ -27,7 +27,9 @@
 ```ターミナル
 git clone https://github.com/Taichi-Kura/MobileMock_SideMenu
 ```
+
 ディレクトリをcloneした本ファイルに移動し
+
 ```ターミナル
 pod install
 ```
